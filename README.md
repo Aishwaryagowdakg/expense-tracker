@@ -17,3 +17,9 @@ A Python Flask application for tracking expenses and savings goals with budget a
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+3.After installing all the requirements 
+  open new terminal 
+  run python app.py
+  then click on this URL 
+  Open: http://localhost:5000
